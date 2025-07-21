@@ -1,0 +1,25 @@
+#a h2{
+    color: red;
+    
+}
+
+.netflix{
+    color: white;
+    background-color: rgb(28, 22, 22);
+}
+
+#img{
+    display: flex;
+}
+#i{
+    float: right;
+}
+section{
+    display: flex;
+    gap: 22px ;
+    text-align: center;
+}
+
+#movie :hover{
+    transform: scale(1.05);
+}
